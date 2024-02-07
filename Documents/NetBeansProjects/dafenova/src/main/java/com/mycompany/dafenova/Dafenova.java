@@ -11,6 +11,6 @@ package com.mycompany.dafenova;
 public class Dafenova {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        
     }
 }
